@@ -1,0 +1,1 @@
+'ec2-oussama-dev [PUBLIC IP : 34.231.241.18 , ID: i-0bc83397944cb8678 , AZ: us-east-1a]' 
